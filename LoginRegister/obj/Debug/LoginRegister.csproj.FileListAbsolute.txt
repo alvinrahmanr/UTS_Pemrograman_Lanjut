@@ -1,0 +1,40 @@
+C:\Users\Admin\Desktop\C# Projects Testing\LoginRegister\LoginRegister\bin\Debug\LoginRegister.exe.config
+C:\Users\Admin\Desktop\C# Projects Testing\LoginRegister\LoginRegister\bin\Debug\LoginRegister.exe
+C:\Users\Admin\Desktop\C# Projects Testing\LoginRegister\LoginRegister\bin\Debug\LoginRegister.pdb
+C:\Users\Admin\Desktop\C# Projects Testing\LoginRegister\LoginRegister\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Desktop\C# Projects Testing\LoginRegister\LoginRegister\obj\Debug\LoginRegister.Login.resources
+C:\Users\Admin\Desktop\C# Projects Testing\LoginRegister\LoginRegister\obj\Debug\LoginRegister.Properties.Resources.resources
+C:\Users\Admin\Desktop\C# Projects Testing\LoginRegister\LoginRegister\obj\Debug\LoginRegister.SignUp.resources
+C:\Users\Admin\Desktop\C# Projects Testing\LoginRegister\LoginRegister\obj\Debug\LoginRegister.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\C# Projects Testing\LoginRegister\LoginRegister\obj\Debug\LoginRegister.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Projects Testing\LoginRegister\LoginRegister\obj\Debug\LoginRegister.csproj.CopyComplete
+C:\Users\Admin\Desktop\C# Projects Testing\LoginRegister\LoginRegister\obj\Debug\LoginRegister.exe
+C:\Users\Admin\Desktop\C# Projects Testing\LoginRegister\LoginRegister\obj\Debug\LoginRegister.pdb
+C:\Users\ASUS\Source\Repos\dotNet-Login-Register\LoginRegister\bin\Debug\LoginRegister.exe.config
+C:\Users\ASUS\Source\Repos\dotNet-Login-Register\LoginRegister\bin\Debug\LoginRegister.exe
+C:\Users\ASUS\Source\Repos\dotNet-Login-Register\LoginRegister\bin\Debug\LoginRegister.pdb
+C:\Users\ASUS\Source\Repos\dotNet-Login-Register\LoginRegister\obj\Debug\LoginRegister.csproj.AssemblyReference.cache
+C:\Users\ASUS\Source\Repos\dotNet-Login-Register\LoginRegister\obj\Debug\LoginRegister.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Source\Repos\dotNet-Login-Register\LoginRegister\obj\Debug\LoginRegister.Login.resources
+C:\Users\ASUS\Source\Repos\dotNet-Login-Register\LoginRegister\obj\Debug\LoginRegister.Properties.Resources.resources
+C:\Users\ASUS\Source\Repos\dotNet-Login-Register\LoginRegister\obj\Debug\LoginRegister.SignUp.resources
+C:\Users\ASUS\Source\Repos\dotNet-Login-Register\LoginRegister\obj\Debug\LoginRegister.csproj.GenerateResource.cache
+C:\Users\ASUS\Source\Repos\dotNet-Login-Register\LoginRegister\obj\Debug\LoginRegister.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Source\Repos\dotNet-Login-Register\LoginRegister\obj\Debug\LoginRegister.csproj.CopyComplete
+C:\Users\ASUS\Source\Repos\dotNet-Login-Register\LoginRegister\obj\Debug\LoginRegister.exe
+C:\Users\ASUS\Source\Repos\dotNet-Login-Register\LoginRegister\obj\Debug\LoginRegister.pdb
+C:\Users\ASUS\Source\Repos\dotNet-Login-Register\LoginRegister\obj\Debug\Splash_Screen_Animation_UI.Form1.resources
+C:\Users\ASUS\source\repos\UTS_Pemrograman_Lanjut\LoginRegister\bin\Debug\LoginRegister.exe.config
+C:\Users\ASUS\source\repos\UTS_Pemrograman_Lanjut\LoginRegister\bin\Debug\LoginRegister.exe
+C:\Users\ASUS\source\repos\UTS_Pemrograman_Lanjut\LoginRegister\bin\Debug\LoginRegister.pdb
+C:\Users\ASUS\source\repos\UTS_Pemrograman_Lanjut\LoginRegister\obj\Debug\LoginRegister.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\UTS_Pemrograman_Lanjut\LoginRegister\obj\Debug\LoginRegister.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\UTS_Pemrograman_Lanjut\LoginRegister\obj\Debug\Splash_Screen_Animation_UI.Form1.resources
+C:\Users\ASUS\source\repos\UTS_Pemrograman_Lanjut\LoginRegister\obj\Debug\LoginRegister.Login.resources
+C:\Users\ASUS\source\repos\UTS_Pemrograman_Lanjut\LoginRegister\obj\Debug\LoginRegister.Properties.Resources.resources
+C:\Users\ASUS\source\repos\UTS_Pemrograman_Lanjut\LoginRegister\obj\Debug\LoginRegister.SignUp.resources
+C:\Users\ASUS\source\repos\UTS_Pemrograman_Lanjut\LoginRegister\obj\Debug\LoginRegister.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\UTS_Pemrograman_Lanjut\LoginRegister\obj\Debug\LoginRegister.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\UTS_Pemrograman_Lanjut\LoginRegister\obj\Debug\LoginRegister.csproj.CopyComplete
+C:\Users\ASUS\source\repos\UTS_Pemrograman_Lanjut\LoginRegister\obj\Debug\LoginRegister.exe
+C:\Users\ASUS\source\repos\UTS_Pemrograman_Lanjut\LoginRegister\obj\Debug\LoginRegister.pdb
